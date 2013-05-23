@@ -1,0 +1,5 @@
+## Interface: 50300
+## Title: LootSpec Switcher
+## Notes: Quick loot specialization switcher
+
+LootSpec_Switcher.lua
